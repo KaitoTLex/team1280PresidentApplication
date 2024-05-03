@@ -9,7 +9,10 @@ nb_frozen_rows 0
 nb_frozen_cols 0
 nb_frozen_screenrows 0
 nb_frozen_screencols 0
+format B 19 2 0
+format C 26 2 0
 label A0 = "Date"
-label B0 = "Event"
+label B0 = "Requirement"
+label C0 = "Why?"
 goto B0
 movetosheet "Sheet1"
